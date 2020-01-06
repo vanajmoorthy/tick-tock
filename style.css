@@ -1,0 +1,45 @@
+body {
+	background-color: black;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 97vh;
+}
+
+.one {
+    font-family: europa, sans-serif;
+    font-size: 50px;
+	font-weight: 700;
+    font-style: normal;
+    text-decoration: underline;
+	line-height: 2em;
+
+    
+}
+
+.two {
+    font-family: europa, sans-serif;
+    font-size: 30px;
+	font-weight: 400;
+    font-style: normal;
+	line-height: 1em;
+    
+}
+
+h1 {
+	color: white;
+	width: 100;
+	text-align: center;
+	
+}
+
+.three {
+    font-family: europa, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+
+	font-weight: 300;
+}
